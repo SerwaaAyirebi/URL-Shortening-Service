@@ -22,3 +22,5 @@ A RESTful API service that allows users to shorten long URLs, manage links, and 
 - Node.js (v14 or higher)
 - MySQL (v8.0 or higher)
 - npm or yarn package manager
+
+## Repository: https://github.com/SerwaaAyirebi/URL-Shortening-Service
